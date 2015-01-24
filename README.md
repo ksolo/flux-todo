@@ -1,5 +1,3 @@
-# react-boilerplate
+# Flux Todo
 
-Quickstart project template for building `npm` modules with React and JSX.
-
-Just `npm install` and `npm run build` when you're done. Use `npm start` to continuously build.
+Checking out the Flux JS framework from FB by following along with the [tutoria](http://facebook.github.io/flux/docs/todo-list.html#content)
